@@ -1,24 +1,24 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "niuma",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "niuma",
+        url: "https://niuma.faxixi.xyz/",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "p2p文件传送",
+        description: "p2p文件传送",
+        url: "https://filet.faxixi.xyz/",
         icon: "",
       },
       {
         title: "主标题",
         description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        url: "#",
         icon: "",
       },
     ],
@@ -39,9 +39,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
+        title: "niuma生图",
+        description: "niuma生图",
+        url: "https://niuma.faxixi.xyz/",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
@@ -75,8 +75,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "",
+  ICP_URL: "",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
