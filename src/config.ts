@@ -1,10 +1,11 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "niuma",
+    title: "Faxixi",
     sites: [
       {
         title: "niuma",
+        description: "niuma生图",
         url: "https://niuma.faxixi.xyz/",
         icon: "",
         color: "#0171CD",
