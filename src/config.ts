@@ -24,7 +24,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       },
     ],
   },
-  {
+<!--  {
     title: "示例分类2",
   },
   {
@@ -35,7 +35,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
   },
   {
     title: "示例分类5",
-  },
+  },-->
   {
     title: "友情链接",
     sites: [
