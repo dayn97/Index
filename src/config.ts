@@ -17,9 +17,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         icon: "",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "#",
+        title: "hustlovis",
+        description: "hustlovis",
+        url: "https://www.hustlovis.com/",
         icon: "",
       },
     ],
